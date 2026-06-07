@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/uppal/OneDrive/Desktop/GIT",
-      "program": "c:/Users/uppal/OneDrive/Desktop/GIT/build/Debug/outDebug",
+      "cwd": "c:/Users/uppal/OneDrive/Desktop/C-basics",
+      "program": "c:/Users/uppal/OneDrive/Desktop/C-basics/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
